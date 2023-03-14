@@ -3,7 +3,7 @@ import streamlit as st
 import os
 from streamlit_chat import message as msg
 
-openai.api_key = os.getenv("SENHA_OPEN_AI")
+openai.api_key = "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"
 
 st.title("Assistente Virtual OALA")
 
