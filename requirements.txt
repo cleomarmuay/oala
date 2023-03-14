@@ -1,4 +1,4 @@
 openai
 streamlit_chat
-python -m pip install --upgrade pip
+
 
